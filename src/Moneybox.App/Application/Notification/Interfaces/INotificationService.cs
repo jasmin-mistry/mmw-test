@@ -1,4 +1,4 @@
-﻿namespace Moneybox.App.Domain.Services
+﻿namespace Moneybox.App.Application.Notification.Interfaces
 {
     public interface INotificationService
     {
