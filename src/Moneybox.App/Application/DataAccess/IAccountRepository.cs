@@ -1,6 +1,7 @@
 ﻿using System;
+using Moneybox.App.Domain.Entities;
 
-namespace Moneybox.App.DataAccess
+namespace Moneybox.App.Application.DataAccess
 {
     public interface IAccountRepository
     {
